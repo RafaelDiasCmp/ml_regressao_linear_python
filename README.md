@@ -24,7 +24,7 @@ Este projeto demonstra a aplicação da regressão linear utilizando Python para
 
 1. **Clonar o Repositório**:
    ```bash
-   git clone https://github.com/RafaelDiasCmp/regressao_linear_python.git
+   git clone https://github.com/RafaelDiasCmp/ml_regressao_linear_python.git
    ```
 
 2. **Instalar as Dependências**:
@@ -46,12 +46,11 @@ Este projeto demonstra a aplicação da regressão linear utilizando Python para
      ```
    - Para executar o script Python:
      ```bash
-     python regressao_linear_python.py
+     python ml_regressao_linear_python.py
      ```
 
 ## 📚 Referências
 
-- [Documentação do scikit-learn](https://scikit-learn.org/stable/)
 - [Tutorial de Regressão Linear com Python](https://statorials.org/pt/regressao-linear-python/)
 
 💡 **Este projeto serve como uma introdução prática à regressão linear em Python, proporcionando uma base para análises preditivas em diversos contextos.**
