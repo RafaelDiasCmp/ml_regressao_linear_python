@@ -1,4 +1,4 @@
-# Regressão Linear com Python
+# Algoritmo de Regressão Linear com Python
 
 Este projeto demonstra a aplicação da regressão linear utilizando Python para analisar a relação entre o custo de hospedagem e a avaliação de hotéis. O objetivo é prever o custo de hospedagem com base na avaliação do hotel.
 
